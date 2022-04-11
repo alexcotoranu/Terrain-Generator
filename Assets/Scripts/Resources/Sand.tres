@@ -1,0 +1,10 @@
+[gd_resource type="Resource" load_steps=2 format=2]
+
+[ext_resource path="res://Assets/Scripts/Resources/TerrainType.cs" type="Script" id=1]
+
+[resource]
+resource_name = "Sand"
+script = ExtResource( 1 )
+type = "Sand"
+height = 0.9
+colour = Color( 1, 0.945098, 0.580392, 1 )

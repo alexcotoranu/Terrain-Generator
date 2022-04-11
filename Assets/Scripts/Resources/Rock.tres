@@ -1,0 +1,7 @@
+[gd_resource type="Resource" load_steps=2 format=2]
+
+[ext_resource path="res://Assets/Scripts/Resources/TerrainType.cs" type="Script" id=1]
+
+[resource]
+resource_name = "Rock"
+script = ExtResource( 1 )
